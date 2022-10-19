@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cs1300-responsive-redesign/static/css/main.9ffb795a.css",
+    "main.js": "/cs1300-responsive-redesign/static/js/main.c3e68ef4.js",
+    "static/js/787.70d5f10a.chunk.js": "/cs1300-responsive-redesign/static/js/787.70d5f10a.chunk.js",
+    "static/media/original_site.png": "/cs1300-responsive-redesign/static/media/original_site.fa484f5b0a5aa5d1828a.png",
+    "static/media/redesigned_site.png": "/cs1300-responsive-redesign/static/media/redesigned_site.91d29c0b10d8b661ed4e.png",
+    "static/media/desktop.png": "/cs1300-responsive-redesign/static/media/desktop.f6e95e7acd77b3c9b31f.png",
+    "static/media/repeated_links.png": "/cs1300-responsive-redesign/static/media/repeated_links.9f86c9896f2e50b6f1af.png",
+    "static/media/interactive_areas.png": "/cs1300-responsive-redesign/static/media/interactive_areas.5e528d6e1c9df7adcc82.png",
+    "static/media/tablet.png": "/cs1300-responsive-redesign/static/media/tablet.0f1be5e9b9b666c84eac.png",
+    "static/media/phone.png": "/cs1300-responsive-redesign/static/media/phone.6091456297ef515c4650.png",
+    "static/media/icon_bar.png": "/cs1300-responsive-redesign/static/media/icon_bar.987dc74005897a84c90f.png",
+    "static/media/register_account_confusion.png": "/cs1300-responsive-redesign/static/media/register_account_confusion.f8baeebf8f286c8cda8a.png",
+    "static/media/repeated_register.png": "/cs1300-responsive-redesign/static/media/repeated_register.cab01b1e5f12c59084ce.png",
+    "static/media/multiple_register_options.png": "/cs1300-responsive-redesign/static/media/multiple_register_options.64a9dec8f020a9876279.png",
+    "static/media/visual_design_guide.png": "/cs1300-responsive-redesign/static/media/visual_design_guide.1272d608f06731d4ad9c.png",
+    "index.html": "/cs1300-responsive-redesign/index.html",
+    "main.9ffb795a.css.map": "/cs1300-responsive-redesign/static/css/main.9ffb795a.css.map",
+    "main.c3e68ef4.js.map": "/cs1300-responsive-redesign/static/js/main.c3e68ef4.js.map",
+    "787.70d5f10a.chunk.js.map": "/cs1300-responsive-redesign/static/js/787.70d5f10a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ffb795a.css",
+    "static/js/main.c3e68ef4.js"
+  ]
+}
