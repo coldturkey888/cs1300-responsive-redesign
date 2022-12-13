@@ -1,0 +1,62 @@
+.context-top-left-corner {
+  position: absolute;
+  top: 5vh;
+  left: 0;
+  padding: 0.5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  background-color: #424344;
+  color: #ffffff;
+  font-size: 1.5rem;
+  border-top-right-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+
+.context-bottom-right-corner {
+  position: absolute;
+  bottom: 5vh;
+  right: 0;
+  padding: 0.5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  background-color: #95bae0;
+  color: #000000;
+  font-size: 1.5rem;
+  border-top-left-radius: 1.5rem;
+  border-bottom-left-radius: 1.5rem;
+}
+
+.context-bottom-right-corner:hover {
+  padding-right: 3rem;
+  background-color: #267bd1;
+  color: #ffffff;
+}
+
+.context-preface {
+  max-width: 70vw;
+  margin-top: 1rem;
+  /* margin-bottom: 4rem; */
+}
+
+.context {
+  /* margin-top: 2rem; */
+  display: inline;
+  max-width: 50vw;
+}
+
+.context-content {
+  text-align: left;
+  font-size: 1.2rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.context-item {
+  margin-bottom: 0.5rem;
+}
+
+.solid-hr {
+  border-top: 1px solid #7b7b7b;
+  height: 0px;
+  width: 50vw;
+}

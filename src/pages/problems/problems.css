@@ -1,0 +1,116 @@
+.problems-top-left-corner {
+  position: absolute;
+  top: calc(5vh + 2 * 100vh);
+  left: 0;
+  padding: 0.5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  background-color: #424344;
+  color: #ffffff;
+  font-size: 1.5rem;
+  border-top-right-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+
+.problems-bottom-right-corner {
+  position: absolute;
+  bottom: calc(5vh - 2 * 100vh);
+  right: 0;
+  padding: 0.5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  background-color: #95bae0;
+  color: #000000;
+  font-size: 1.5rem;
+  border-top-left-radius: 1.5rem;
+  border-bottom-left-radius: 1.5rem;
+}
+
+.problems-bottom-right-corner:hover {
+  padding-right: 3rem;
+  background-color: #267bd1;
+  color: #ffffff;
+}
+
+.problems-tab-container {
+  height: 70vh;
+  width: 80vw;
+}
+
+.problems-preface {
+  font-size: 1.5rem;
+  /* margin-bottom: 0; */
+  margin-top: 0;
+}
+
+.problems-tabpanel-header {
+  font-size: 1.2rem;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.problems-tabpanel-title {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.problems-tabpanel-content {
+  display: flex;
+  flex-direction: row;
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.problems-tabpanel-content li {
+  margin-bottom: 1rem;
+}
+
+.problems-tabpanel-content-left {
+  flex: 1;
+  margin-right: 1rem;
+}
+
+.problems-tabpanel-content-right {
+  flex: 1;
+}
+
+.problems-learn-image-left {
+  object-fit: contain;
+  max-height: 20vh;
+  max-width: 40vw;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.problems-learn-image-right {
+  object-fit: contain;
+  width: 20vw;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.problems-efficient-image-left {
+  object-fit: contain;
+  max-width: 40vw;
+  margin-top: 10px;
+  /* margin-bottom: 20px; */
+}
+
+.problems-efficient-image-right {
+  object-fit: contain;
+  height: 50vh;
+  max-width: 40vw;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.bottom-right {
+  cursor: pointer;
+  z-index: 99;
+}
